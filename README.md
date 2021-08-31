@@ -9,6 +9,7 @@ Many thanks to these awesome projects:
 - https://github.com/SubtitleEdit/subtitleedit
 - https://github.com/CharsetDetector/UTF-unknown
 - https://github.com/JamesNK/Newtonsoft.Json
+- https://github.com/psf/requests-html
 - ...
 
 # Screenshots
