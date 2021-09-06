@@ -18,6 +18,8 @@ Pre-built binary for anyone who wanna give it a try. Download [this zip](https:/
 
 # Thanks
 Many thanks to these awesome projects:
+- https://yts.mx/
+- https://subscene.com/
 - https://github.com/arvidn/libtorrent
 - https://github.com/SubtitleEdit/subtitleedit
 - https://github.com/CharsetDetector/UTF-unknown
