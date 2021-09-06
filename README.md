@@ -1,6 +1,4 @@
-This is a UWP app to watch [YTS](https://yts.mx/) torrent movies directly.
-
-It also automatically fetch subtitles from [subscene](https://subscene.com/).
+This is a UWP app to watch [YTS](https://yts.mx/) torrent movies directly, and also automatically fetch subtitles from [subscene](https://subscene.com/).
 
 # Screenshots
 <p align="center">
